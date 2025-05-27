@@ -5,21 +5,18 @@ Hi, I'm Awwal Oladipupo— a computational scientist and software developer focu
 ## 🔬 Research & Development Interests
 
 - **Computational Materials Science**  
-  Modeling and simulation of materials from first principles to atomistic scale using tools like LAMMPS, VASP, and DFT-based methods.
+  Modeling and simulation of materials from first principles to the atomistic scale using tools like LAMMPS, VASP, and DFT-based methods.
 
 - **Atomic & Molecular Modeling**  
   Development of custom interatomic potentials, including ML-driven force fields and multi-scale coupling approaches.
 
 - **AI & Machine Learning for Materials**  
-  Building models to predict material properties, optimize structures, and accelerate discovery using supervised, unsupervised, and reinforcement learning.
+  Building models to predict material and system properties, optimize structures, and accelerate discovery using supervised, unsupervised, and reinforcement learning.
 
 - **Scientific Software Engineering**  
   Design and development of high-performance, extensible simulation pipelines and data analysis tools in Python, C++, and other scientific languages.
 
 ## 💻 Software Systems & Tools
-
-- **Backend & Frontend Development**  
-  End-to-end system design of data platforms, simulation workflows, and interactive UIs for scientific computing applications.
 
 - **ML Infrastructure**  
   Development of scalable machine learning pipelines, from feature engineering to training, inference, and deployment.
