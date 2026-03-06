@@ -13,6 +13,9 @@ Hi, I'm Awwal Oladipupo— a computational scientist and software developer focu
 - **AI & Machine Learning for Materials**  
   Building models to predict material and system properties, optimize structures, and accelerate discovery using supervised, unsupervised, and reinforcement learning.
 
+- **AI Agent Development and Security Workflow**  
+  Architecting and designing AI agents with secure workflows that ensure safe automation, controlled data access, and reliable system performance.
+
 - **Scientific Software Engineering**  
   Design and development of high-performance, extensible simulation pipelines and data analysis tools in Python, C++, and other scientific languages.
 
